@@ -34,11 +34,11 @@ The project is structured as follows:
 
 ## Getting Started 🚀
 
-1. Clone the repository: `git clone https://github.com/your-username/football-outcome-dashboard.git`
+1. Clone the repository: `git clone https://github.com/ivanovsdesign/cl_data_analytics_football_predictor`
 2. Explore the code, Tableau workbook, final report, and presentation.
 
 ```bash
-cd football-outcome-dashboard
+cd cl_data_analytics_football_predictor
 ```
 ## Tableau Dashboard 📈
 Navigate to the /tableau/ directory and open the Tableau workbook file (ANRGP - Football match outcome predictor.twbx) to interact with the Football Match Outcome Dashboard.
